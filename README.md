@@ -1,6 +1,9 @@
 # presync
 Side sync of files for a version control system, the 'wand' part of the magic trick :)
 
+Overview of the idea:
+http://slides.com/simonclay/sync
+
 Commercial file multicaster:
 http://uftp-multicast.sourceforge.net
 
